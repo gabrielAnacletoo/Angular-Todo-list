@@ -56,5 +56,5 @@ Ao acessar a página principal da aplicação, o componente TaskList é automati
 
 
 ## Contato e Redes Sociais
-- **E-mail:** [seu@email](mailto:gabrielanacleto159@live.com)
+- **E-mail:** [gabrielanacleto159@live.com](mailto:gabrielanacleto159@live.com)
 - **LinkedIn:** [inkedIn](https://www.linkedin.com/in/gabriel-anacletoo/)
