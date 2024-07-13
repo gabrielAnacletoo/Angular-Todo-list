@@ -8,8 +8,8 @@ Um projeto simples de gerenciamento de tarefas utilizando Angular.
 Para instalar o projeto localmente, siga os passos abaixo:
 
 ```bash
-1. Clone o repositório: `git clone https://github.com/seu-usuario/seu-projeto.git`
-2. Entre no diretório do projeto: `cd seu-projeto`
+1. Clone o repositório: `git clone https://github.com/seu-usuario/Angular-Todo-list`
+2. Entre no diretório do projeto: `cd Angular-Todo-list`
 3. Instale as dependências: `npm install`
 ```
 
@@ -50,8 +50,8 @@ Ao acessar a página principal da aplicação, o componente TaskList é automati
 3. Bootstrap
 ```
 
-## Backend
-- **Link para o Backend:** [Back-end do projeto](https://www.seu-backend.com)
+## Back-end do projeto
+- **Link para o Backend:** [Back-end do projeto](https://github.com/gabrielAnacletoo/Back-End-todo-list-angular)
 
 
 
