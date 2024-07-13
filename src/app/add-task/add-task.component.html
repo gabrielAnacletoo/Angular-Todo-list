@@ -1,0 +1,17 @@
+<div class="container-addTask">
+    <h1>Adicionar Tarefa</h1>
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            <label for="title" class="form-label">Título:</label>
+            <div class="input-group">
+                <input type="text" id="title" class="form-control" required placeholder="Digite o título da tarefa" aria-label="title" aria-describedby="addon-wrapping" [(ngModel)]="title" name="title">            </div>
+        </div>
+        <div class="col-md-6 mb-3">
+            <label for="description" class="form-label">Descrição:</label>
+            <div class="input-group">
+                <input type="text" id="description" class="form-control" required placeholder="Digite a descrição da tarefa" aria-label="description" aria-describedby="addon-wrapping" [(ngModel)]="description" name="description">
+                <button (click)="addTask()" class="btn btn-success rounded-circle ms-2">+</button>
+            </div>
+        </div>
+    </div>
+</div>
